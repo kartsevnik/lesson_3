@@ -1,0 +1,54 @@
+.header {
+  text-transform: uppercase;
+}
+
+.navigation {
+  font-size: 24px;
+}
+
+h2 {
+  text-align: center;
+}
+
+p {
+  font-size: 24px;
+}
+
+.cat {
+  font-size: 36px;
+  color: rgb(9, 41, 78);
+}
+
+.one_story {
+  color: brown;
+  padding: 0 50px;
+}
+
+.image_one {
+  width: 25%;
+  margin: 0 38%;
+}
+
+.two_story {
+  color: rgb(119, 0, 255);
+  padding: 0 50px;
+}
+
+.image_two {
+  width: 25%;
+  margin: 0 38%;
+}
+
+.image_three {
+  margin: 0 25%;
+}
+
+.four_story {
+  padding: 0 50px;
+  color: rgb(9, 155, 106);
+  font-style: italic;
+}
+
+.image_five {
+  margin: 0 25%;
+}
